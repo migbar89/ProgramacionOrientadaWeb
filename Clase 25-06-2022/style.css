@@ -1,0 +1,63 @@
+.header
+{
+  border: solid 1px;
+  width: 90%;
+  height: auto;
+}
+.navbar
+{
+  border: solid 1px;
+  width: 800px;
+  height: 25px;
+  padding-left: 200px;
+
+}
+.contenedor
+{
+  border: solid 1px;
+  width: 90%;
+  height: 300px;
+}
+.footer
+{
+  border: solid 1px;
+  width: 90%;
+  height: 100px;
+}
+.principal
+{
+  border: solid 1px;
+  width: 70%;
+  float: left;
+  height: 300px;
+ 
+}
+.anuncios
+{
+  border: solid 1px;
+  width: 30%;
+  height: 300px;
+  border-color: red;
+  /* margin: 10px; */
+  margin-left: 70%; 
+ 
+}
+img{
+  width: 40px;
+  height: 40px;
+}
+#image_header
+{
+  margin-left: 80px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.titulos{
+  float: right;  
+}
+.item_navbar
+{
+  float: left;
+  margin-left: 25px;
+  margin-top: -10;
+}
